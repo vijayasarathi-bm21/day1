@@ -1,3 +1,4 @@
+start
 Fill up the kettle with water.
 Boil the kettle.
 Place a teabag in your favourite mug.
@@ -7,3 +8,4 @@ Remove and dispose of the teabag.
 Add milk.
 Add sugar.
 enjoy
+
